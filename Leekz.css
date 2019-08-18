@@ -1,0 +1,46 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: maroon;
+  font-family: Rubik, Arial;
+}
+
+form {
+  text-align: center;
+  line-height: 30px;
+  height: 80%;
+  overflow: auto;
+}
+
+form hr {
+  width: 15%;
+}
+
+h1 {
+  text-align: center;
+}
+
+#burger {
+  max-height: 30%;
+}
+
+#overlay {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  width: 90%;
+  margin: 3% auto;
+  height: 700vh;
+  background-color: lightBlue;
+  border-radius: 40px;
+}
+
+#logo {
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+
+
+.toppings label, .cheesy label {
+  margin-right: 25px;
+}
+
